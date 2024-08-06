@@ -1,14 +1,14 @@
 cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  name: Geng Haotian
+  location: Beijing. China.
+  email: gengnaq@163.com
+  phone: tel:18392072523
+  # website: https://yourwebsite.com/
   social_networks:
     - network: LinkedIn
       username: yourusername
-    - network: GitHub
-      username: yourusername
+    - network: WeChat
+      username: genght1999
   sections:
     welcome_to_RenderCV!:
       - '[RenderCV](https://github.com/sinaatalay/rendercv) is
